@@ -1,0 +1,21 @@
+site_name: SERP Intelligence
+site_url: https://serp-intelligence.readthedocs.io
+site_description: Research focused framework for analyzing search results, search intent, ranking patterns, competitor visibility, SERP features, and content opportunities.
+site_author: SERPChecker.fyi
+
+repo_name: Serpchecker-fyi/serp-intelligence
+repo_url: https://github.com/Serpchecker-fyi/serp-intelligence
+
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: cyan
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
