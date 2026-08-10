@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@serpchecker-fyi/serp-intelligence)](https://npmjs.com/package/@serpchecker-fyi/serp-intelligence)
 [![PyPI](https://img.shields.io/pypi/v/serp-intelligence)](https://pypi.org/project/serp-intelligence)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21878374.svg)](https://doi.org/10.5281/zenodo.21878374)
 
 SERP Intelligence is a research focused framework for analyzing search results, search intent, ranking patterns, competitor visibility, SERP features, and content opportunities. It helps organize search data into meaningful insights for SEO research, content planning, and organic search strategy. Built by [SERPChecker.fyi](https://serpchecker.fyi).
 
@@ -148,7 +148,7 @@ SERP Intelligence · SERP Analysis · Search Intent · Ranking Patterns · Compe
 | NPM | https://npmjs.com/package/@serpchecker-fyi/serp-intelligence |
 | PyPI | https://pypi.org/project/serp-intelligence |
 | Hugging Face | https://huggingface.co/datasets/serpchecker-fyi/serp-intelligence-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21878374 |
 | Docs | https://serp-intelligence.readthedocs.io |
 | Pinterest | https://www.pinterest.com/serpcheckerfyi/ |
 | Quora | https://www.quora.com/profile/SERP-Checker-Fyi |
