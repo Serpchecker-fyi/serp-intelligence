@@ -1,0 +1,21 @@
+id,keyword,search_intent,serp_visibility_score,search_intent_score,ranking_pattern_score,competitor_visibility_score,serp_feature_score,content_opportunity_score,overall_serp_intelligence_index,priority_action,organic_results_score,featured_snippets_score,people_also_ask_score,local_pack_score,serp_feature_type,notes
+1,best project management software,commercial,88,84,86,80,90,84,85,Competitor Visibility,88,90,84,80,featured-snippet,High competition SaaS keyword
+2,how to lose weight fast,informational,86,82,84,78,88,90,85,Competitor Visibility,86,88,82,78,people-also-ask,Health informational cluster
+3,plumber near me,local,84,80,82,76,86,82,82,Competitor Visibility,84,86,80,76,local-pack,High intent local query
+4,buy running shoes online,transactional,90,86,88,82,92,86,87,Competitor Visibility,90,92,86,82,shopping-results,E-commerce transactional
+5,what is machine learning,informational,88,84,86,80,90,88,86,Competitor Visibility,88,90,84,80,featured-snippet,Technical informational query
+6,gmail login,navigational,82,78,80,74,84,76,79,Competitor Visibility,82,84,78,74,knowledge-panel,Brand navigational query
+7,best restaurants london,local,86,82,84,78,88,84,84,Competitor Visibility,86,88,82,78,local-pack,Local discovery query
+8,digital marketing course,commercial,88,84,86,80,90,86,86,Competitor Visibility,88,90,84,80,featured-snippet,Education commercial query
+9,iphone vs samsung,commercial,90,86,88,82,92,88,88,Competitor Visibility,90,92,86,82,people-also-ask,Product comparison query
+10,how to start a podcast,informational,86,82,84,78,88,90,85,Competitor Visibility,86,88,82,78,featured-snippet,How-to informational query
+11,seo tools,commercial,92,88,90,84,94,88,89,Competitor Visibility,92,94,88,84,featured-snippet,High competition SEO query
+12,web hosting comparison,commercial,88,84,86,80,90,86,86,Competitor Visibility,88,90,84,80,featured-snippet,Hosting comparison query
+13,python tutorial beginners,informational,86,82,84,78,88,90,85,Competitor Visibility,86,88,82,78,featured-snippet,Technical tutorial query
+14,best coffee shops near me,local,84,80,82,76,86,82,82,Competitor Visibility,84,86,80,76,local-pack,Local discovery query
+15,content marketing strategy,informational,88,84,86,80,90,88,86,Competitor Visibility,88,90,84,80,featured-snippet,B2B informational query
+16,amazon prime benefits,navigational,84,80,82,76,86,80,81,Competitor Visibility,84,86,80,76,knowledge-panel,Brand informational query
+17,keyword research tools,commercial,90,86,88,82,92,88,88,Competitor Visibility,90,92,86,82,featured-snippet,SEO tool comparison
+18,how to make sourdough bread,informational,86,82,84,78,88,90,85,Competitor Visibility,86,88,82,78,featured-snippet,Recipe how-to query
+19,crm software for small business,commercial,88,84,86,80,90,86,86,Competitor Visibility,88,90,84,80,featured-snippet,B2B commercial query
+20,yoga classes near me,local,86,82,84,78,88,84,84,Competitor Visibility,86,88,82,78,local-pack,Local service query
